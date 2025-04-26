@@ -10,7 +10,7 @@ title: Gaétan J.A.M. Jalin
 tagline: PhD student in Astrophysics
 
 description: >-
-  Phd student in Astrophysics
+  PhD student in Astrophysics
 
 url: "https://gadjalin.github.io"
 
@@ -67,7 +67,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: ""
+cdn: "/assets"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/commons/avatar.jpg"
